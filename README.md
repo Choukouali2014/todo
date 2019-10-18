@@ -22,7 +22,7 @@ Run `cd todo` to go inside the directory
 
 Install dependencies
 
-npm install
+Run `npm install`
 
 This application uses a backend counterpart:
 * [A JsonServer ](https://github.com/typicode/json-server)
