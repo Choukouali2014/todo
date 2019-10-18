@@ -1,0 +1,40 @@
+/*
+ * this helps the mirrored elements be the right size
+ * and it's generally a good practice
+ */
+ * {
+  box-sizing: border-box;
+}
+
+
+h3, h3 code {
+  font-size: 20px;
+}
+
+.flex {
+  display: flex;
+  padding: 8px ; 
+  width: 100%;
+  background: rgb(148, 42, 87);
+    
+}
+
+.containerf {
+  flex: 1;
+  width: 100%;
+}
+.containerf:not(:last-child) {
+  margin-right: 7px;
+  border-right: 1px solid black;
+}
+
+.vamp {
+  list-style: none;
+  padding: 8px;
+  margin: 8px;
+}
+
+
+.vamp:not(:last-child) {
+  border-bottom: 1px solid black;
+}

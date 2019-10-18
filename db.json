@@ -1,0 +1,24 @@
+{
+  "Todo": [
+    {
+      "id": 1,
+      "title": "read for 30 minutes everyday ",
+      "isCompleted": false
+    },
+    {
+      "id": 2,
+      "title": "try to learn some new stuff in angular ",
+      "isCompleted": true
+    },
+    {
+      "id": 3,
+      "title": "work on todo App to achieve my goal ",
+      "isCompleted": true
+    },
+    {
+      "id": 4,
+      "title": "create user story about a new simple application",
+      "isCompleted": true
+    }
+  ]
+}
