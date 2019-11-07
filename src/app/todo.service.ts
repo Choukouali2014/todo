@@ -7,7 +7,7 @@ import Todo from './store/todo.model';
   providedIn: 'root'
 })
 export class TodoService {
-  private apiUrl = 'http://localhost:3000/Todo';
+  private apiUrl = 'https://server-json-app.herokuapp.com/Todo';
   constructor(private http: HttpClient) { }
   httpOptions = {
     headers: new HttpHeaders({ 'Content-Type': 'application/json' })
