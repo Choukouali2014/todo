@@ -1,4 +1,9 @@
 # Todo App
+Todo is an application where users can add tasks and change the state of one or many tasks.
+
+To change a state of the task, users can drag and drop from Progress to Done and vice versa
+
+[Todo App Link](https://todo-app-platform.herokuapp.com/home)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.2.1.
 
